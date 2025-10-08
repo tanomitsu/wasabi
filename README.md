@@ -1,6 +1,6 @@
 # Wasabi OS
 
-Progress: ![68/522](https://progress-bar.xyz/13)
+Progress: ![](https://progress-bar.xyz/13?title=68/522)
 
 ## Abstract
 
